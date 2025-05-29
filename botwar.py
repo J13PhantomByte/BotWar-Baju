@@ -9,9 +9,9 @@ import requests
 
 # --- SETTINGS ---
 URL = 'https://calledelarache.com/'  # Ganti dengan URL countdown
-TELEGRAM_TOKEN = '7233952987:AAEDEr9uPIqecNmbSPu2IWM7O11DK5kxuZA'
-TELEGRAM_CHAT_ID = '6532672072'
-CHROMEDRIVER_PATH = 'C:/Users/siapa/Downloads/chromedriver-win64/chromedriver.exe'  # Pastikan chromedriver sesuai versi Brave (Chromium)
+TELEGRAM_TOKEN = 'ISI_TOKEN_BOTFATHER_KALIAN_DISINI'
+TELEGRAM_CHAT_ID = 'ISI_ID_USERINFBOT_DISINI'
+CHROMEDRIVER_PATH = 'C:/Users/kalian/Downloads/chromedriver-win64/chromedriver.exe'  # Pastikan chromedriver sesuai versi Brave (Chromium)
 BRAVE_PATH = "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe"  # <- Sesuaikan path Brave kamu
 WAKTU_WAR = '18:05:00'
 
