@@ -38,5 +38,5 @@ A: Versi chromedriver tidak cocok dengan versi browser Brave-mu. Coba downgrade 
 1. Clone repositori:
 
 ```bash
-git clone https://github.com/username/bot-war-baju.git
-cd bot-war-baju
+https://github.com/J13PhantomByte/BotWar-Baju.git
+cd BotWar-Baju.git
