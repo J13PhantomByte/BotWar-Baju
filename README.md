@@ -39,4 +39,4 @@ A: Versi chromedriver tidak cocok dengan versi browser Brave-mu. Coba downgrade 
 
 ```bash
 https://github.com/J13PhantomByte/BotWar-Baju.git
-cd BotWar-Baju.git
+cd BotWar-Baju
